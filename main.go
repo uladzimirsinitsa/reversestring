@@ -1,4 +1,4 @@
-package main
+package reversestring
 
 func ReverseRunes(s string) string {
 	r := []rune(s)
